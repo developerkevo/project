@@ -1,6 +1,6 @@
-# Insura
+# Project Insurance
 
-Insura is a multi-insurance agency and client management system. It is written in [Laravel](https://laravel.com), a strong PHP framework, and utilises the [Semantic UI](https://semantic-ui.com) framework for smashing frontend views. A demo is available [here](https://insura.simcycreative.com).
+Project Insurance is a multi-insurance agency and client management system. It is written in [Laravel](https://laravel.com), a strong PHP framework, and utilises the [Semantic UI](https://semantic-ui.com) framework for smashing frontend views. 
 
 ## Features
 
